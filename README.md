@@ -1,9 +1,4 @@
 <br clear="both">
-
-<div align="left">
-  <img height="200" src="https://avatars.githubusercontent.com/u/199849707?s=400&u=8f4f17a58b955f2ec7d84a80dcefbcc12e8d36ce&v=4"  />
-</div>
-
 ###
 
 <h1 align="left">Quien soy? 🤔</h1>
@@ -32,7 +27,7 @@
   <a href="https://www.twitch.tv/zkannek" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="marcelo.revilla@utec.edu.pe" target="_blank">
+  <a href="mailto:marcelo.revilla@utec.edu.pe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
